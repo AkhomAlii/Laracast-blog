@@ -15,6 +15,9 @@ php artisan migrate
 php artisan serve
 ```
 -click or ctrl+click the link that popped up 
+In order to enable the email subscribtion field :
+-sign up a mailchimp account and generate an APIkey 
+-create a list and update the mailchimp keys in the .env file 
 
 ##On Usage
 
